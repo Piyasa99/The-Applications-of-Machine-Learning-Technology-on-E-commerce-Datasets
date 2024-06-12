@@ -1,1 +1,1 @@
-# The-Applications-of-Machine-Learning-Technology-on-E-commerce-Datasets
+I have worked with two datasets: Bank customer churn dataset & Mobile price dataset. First, Exploratory Data Analysis (EDA) is conducted on both the datasets, then various Machine Learning algorithms are applied (along with feature selection methods) to each dataset to identify the best performing one.
